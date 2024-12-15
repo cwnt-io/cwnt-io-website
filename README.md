@@ -2,4 +2,6 @@
 
 ## Specs
 
-- live data streaming crypto
+- hybrid sveltekit
+- backend:
+  - live data streaming crypto
